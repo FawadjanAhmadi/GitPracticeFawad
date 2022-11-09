@@ -1,7 +1,7 @@
 
 public class eerfddf {
 public static void main(String[] args) {
-	int b =9;
+	int b =5;
 	
 }
 }
